@@ -1,0 +1,78 @@
+#head{
+    position: fixed;
+    z-index: -2; opacity: 0.5;
+    left: 45%; top: 45%;
+    border-radius: 100cm;
+    width: 4cm;
+    height: 4cm;
+    
+}
+a{
+    font-style: family-Roboto;
+}
+body{
+    background: url(../img/fondo-fantasia-pastel_56745-130.JPG), url(../img/A\ lo\ Meriggi.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#section1{
+    opacity: 0.5;
+} 
+#titulo{
+    background-color: thistle; height: 100px; margin: 1cm;
+}
+a{
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#orden{
+    background-color: pink; opacity: 0.6;
+    text-align: center; margin: 1cm;
+}
+h1{
+    text-align: center; opacity: 1;
+    font-size: 2cm; font-style: oblique;
+}
+ul{
+    display: flex; flex-direction: column; align-items: center
+}
+ol{
+    display: flex; flex-direction: column; align-items: center
+}
+a{
+    color: black;
+}
+#section2{
+    margin: 1cm; background-color: aquamarine; padding: 1cm; opacity: 0.4;
+    display: inline-flex;
+    
+}
+.img{
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 90%;
+    position: relative;
+    top: 20%;
+}
+.costado{
+    position: relative;
+    height: auto;
+    width: auto;
+    max-height: 400%;
+    max-width: 100%;
+    top: 30%;
+    border: 1cm;
+    
+}
+#section3{
+    margin: 1cm; background-color: white; padding: 1cm; opacity: 0.4;
+    display: inline-flex;
+}
+#section4{
+    margin: 1cm; background-color: whitesmoke; padding: 1cm; opacity: 0.4;
+    display: inline-flex;
+    
+}
